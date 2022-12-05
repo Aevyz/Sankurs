@@ -51,6 +51,7 @@ z.B. Aufm Festival
 + BRK bei Sani Dienste
 
 ![](https://ferno.de/wp-content/uploads/2022/01/viper_alle_flach_big.jpg)
+
 #### Styker Trage
 + 227kg
 + Rettungsdienst
@@ -61,6 +62,7 @@ z.B. Aufm Festival
 #### NATO Trage
 
 * Trage im AStA
+  * stollenwerk modell 80
 * Watch your fingers
 * 160kg
 * Patienten anschnallen nicht vergessen
@@ -79,6 +81,10 @@ z.B. Aufm Festival
     * 1 Fuesse hinter
     * Patienten wird von die drei hochgehoben
     * 4 schiebt Trage unter Patienten
+  * Falls Patient bewusstlos wird
+    * Absetzen
+    * Dann Stabile Seitenlage
+
 
 
 ![](https://www.hobrand.nl/media/catalog/product/cache/e79e5beab349dc30af6ecae206ca6f59/2/4/240200.jpg)
@@ -90,6 +96,54 @@ Anschnallen
 ::: question Wie viele Personnen braucht man fuer einen Abtransport
 2 Sanitaeter oder 4
 :::
+
+::: question Kommandos bei Abtransport
+1. "Bereit?"
+2. Warten bis alle bereit sagen
+3. "Hebt An"
+4. Gleichmaessig Anheben
+5. "Traeger marsch!"
+6. Blickrichtung des Patienten
+7. Traeger Halt!
+:::
+
+::: question Welche Richtung tragen
+Blickrichtung Patient
+:::
+
+::: question Ausnahme wenn man nicht im Blickrichtung Transportiert
+Transport Treppe hoch ist gegen Blickrichtung des Patienten. Weil Patient soll nicht Fuss hoch transportiert werden. 
+:::
+::: question Welche Richtung Treppe Hoch
+Gegen Blickrichtung (damit Kopf runter)
+:::
+
+::: question Welche Richtung Treppe Runter
+Blickrichtung (Kopf Runter)
+:::
+
+##### Hindernisse
+
+TODO: Bild von Folien
+
+* Einer geht rueber
+* Trage auf Mauer setzen
+* Seite ehen rueber
+* Weiter bis letzter Rueber kann
+
+Wichtig! Annahme dass die Mauer stabil ist
+
+::: question Annahme bei Hindernisse
+Hindernisse sind stabil genug, um Trage draufzusetzen
+:::
+
+## Fahrgestell fuer NATO Trage
+
+- Urprunglich Militaer
+- Wir haben jetzt einen (RIP Sprinter)
+
+![](https://img.medicalexpo.com/images_me/photo-g/128617-16528251.webp)
+
 ## Other things
 
 ::: question Grundregel bei Patienten
