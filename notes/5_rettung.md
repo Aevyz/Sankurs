@@ -144,6 +144,79 @@ Hindernisse sind stabil genug, um Trage draufzusetzen
 
 ![](https://img.medicalexpo.com/images_me/photo-g/128617-16528251.webp)
 
+## Transport mit Immobilisierung
+
+TODO:
+
+e.g. Spineboard, Schaufeltrage + Vakuummatratze
+
+Wann benutzen?
+- Wirbelsäuleverletzung
+
+### Spineboard
+![](https://www.medicalsupplies.co.uk/user/products/large/BaXstrap-Spineboard-Stretcher.jpg)
+
++ Starr
+  + Muss auf Vakuummatratze umgeschichtet werden für Transport
+  + Zu hart für Transport
+  + Dämpft nicht ab
++ Original ausm Wasserrettung
+
+
+### Schaufeltrage + Vakuummatratze + Pumpe
+![](https://cdn-reichelt.de/bilder/web/xxl_ws/E910/SNG_0601035_01.png)
+
++ Fang mit Beine an
+  + Potentiell für Verhackungen
+
+!!! Kopf festhalten !!!
+
+
+::: question Wieso Vakuum?
+Luft rausnehmen, wird fester. Daher passt sich besser am Rücken des Patientens an
+:::
+
+
+#### How to
+
++ Schaufeltrage neben Patient setzen
++ Anpassen auf Patient
++ Teile die Trage und auf beide Seiten
++ Equipment nicht über Patient
++ Drehe Patient und schiebe Hälfte
++ Kopf nicht vergessen zu halten
++ Gleiche auf der andere Seite
++ Angurten
++ Auf die Trage mit Vakuummatratze heben
++ Entgurten
++ Fußende öffnen und dann Kopfende öffnen
++ Teile abnehmen
++ Gurt auf Vakuummatratze schließen
++ Arme sollten oben sein auf Bauch
+  + Vakuummatratze geschlossen gegen Brustkorb
++ Pumpe aktivieren und Gurte ggf nachziehen
++ Tragegurte auch fixiieren
+
+
+## Stiffneck (Cervicalstütze)
+
++ Anwendung bei Verdacht auf HWS Verletzungen
++ Stabilisiert nur Halswirbel 1-5
+  + Nicht alles
++ Zusätzlich muss Patient vollständig Immobilisiert
+  + Spineboard oder Vakuummatratte
++ Bis Stiffneck angewendet wird, muss Kopf fixiert sein
++ Ist mit absicht Unbequem
+  
+Bei Bewusstlosigkeit abgenommen.
+
+::: question Was muss beim Bewusstlosigkeit gemacht werden, falls der Patient einen Stiffneck trägt
+Abnehmen
+:::
+
+
+
+
 ## Other things
 
 ::: question Grundregel bei Patienten
