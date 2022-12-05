@@ -158,10 +158,16 @@ Wann benutzen?
 
 + Starr
   + Muss auf Vakuummatratze umgeschichtet werden für Transport
-  + Zu hart für Transport
+  + Zu hart für Transport (offiziell)
   + Dämpft nicht ab
 + Original ausm Wasserrettung
 
+::: question Darf man auf einen Spineboard transportieren?
+Nein, was der Rettungsdienst macht ist uns egal
+:::
+::: question Wie lange darf einen Patient auf einen Spineboard liegen?
+1 Stunde
+:::
 
 ### Schaufeltrage + Vakuummatratze + Pumpe
 ![](https://cdn-reichelt.de/bilder/web/xxl_ws/E910/SNG_0601035_01.png)
@@ -171,6 +177,9 @@ Wann benutzen?
 
 !!! Kopf festhalten !!!
 
+::: question Darf man auf einen Schaufeltrage + Vakuummatratze transportieren?
+Ja
+:::
 
 ::: question Wieso Vakuum?
 Luft rausnehmen, wird fester. Daher passt sich besser am Rücken des Patientens an
@@ -201,8 +210,9 @@ Luft rausnehmen, wird fester. Daher passt sich besser am Rücken des Patientens 
 ## Stiffneck (Cervicalstütze)
 
 + Anwendung bei Verdacht auf HWS Verletzungen
-+ Stabilisiert nur Halswirbel 1-5
++ Stabilisiert nur Halswirbel 3-7
   + Nicht alles
+  + Obersten beide nicht
 + Zusätzlich muss Patient vollständig Immobilisiert
   + Spineboard oder Vakuummatratte
 + Bis Stiffneck angewendet wird, muss Kopf fixiert sein
@@ -214,6 +224,21 @@ Bei Bewusstlosigkeit abgenommen.
 Abnehmen
 :::
 
+### Spineboard anwenden
+
++ 3 Personnen gebraucht
+  + 1 Kopf
+  + 1 Körper
+  + 1 Spineboard
++ Spineboard bei Hüfte
++ Kopf und Körper drehen Patient
++ Spineboard wird unter dem Patient gelegt
++ Gemeinsam Patient hochziehen
++ Einer hält immernoch Kopf
++ Tasche nehmen, was ein Gurtsystem beinhaltet
+  + Y Teil beim Kopf befestigen (Schwarz)
+  + Rest befestigen
++ Headblocks befestigen
 
 
 
