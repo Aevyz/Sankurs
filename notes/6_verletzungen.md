@@ -132,6 +132,27 @@ TODO
   - Check arms
   - Tell them to push against you
 
+
+
+## Schienung
+
+::: define Schienung
+Stabilisierung von verletzten Körperteile
+:::
+
+::: question Was soll man vor der Schienung machen
+ggf offene Wunden steril abdecken
+:::
+
+### Universalschiene
+
+- Metalplatte mit Schaumstoffummantelung
+- Kann an verletzte Körperteile angepasst werden
+- Angrezende Gelenke mitschienen
+- Schiene wird mit eine Mullbinde fixiert
+- DMS Kontrolle vorher UND nachher
+
+
 ## Other Definitions
 
 ::: define Fettembolien
@@ -141,6 +162,8 @@ Verschluss eines Blutgefäßes wegen Fettes
 ::: define Hämatome/Bluterguss
 Ein Bluterguss entsteht, wenn Blutgefäße durch einen Stoß oder einen Schlag verletzt werden, wodurch letztlich Blut ins Gewebe dringt. Dicht unter der Haut gerinnt dieses Blut dann und wird als „Blauer Fleck“ sichtbar.
 :::
+
+
 ## Questions
 
 ::: question Was ist das Schema für Schmerzbeurteilung
