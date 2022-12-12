@@ -1,5 +1,19 @@
 # Verletzungen
 
+
+- [Verletzungen](#verletzungen)
+  - [OPQRST](#opqrst)
+  - [Blutverlust](#blutverlust)
+  - [PECH Regel](#pech-regel)
+  - [DMS Kontrolle](#dms-kontrolle)
+  - [Bodycheck](#bodycheck)
+    - [How To](#how-to)
+  - [Schienung](#schienung)
+    - [Universalschiene](#universalschiene)
+  - [Other Definitions](#other-definitions)
+  - [Questions](#questions)
+
+
 z.B.
 + Brüche
 + Offener Bruch (bone is external)
@@ -92,7 +106,7 @@ Kann die Person seine Glieder bewegen
 :::
 
 ::: question DMS: Sensibilität
-TODO
+Körperteil anfassen und fragen ob beide gleich "Warm" sich anfühlen
 :::
 
 ## Bodycheck
@@ -144,6 +158,17 @@ Stabilisierung von verletzten Körperteile
 ggf offene Wunden steril abdecken
 :::
 
+- DMS
+- Schiene anpassen an Patient
+  - Idealerweise nicht am Patient anpassen, das tut Weh
+- Mullbinde benutzen um Schiene festzumachen
+- ggf Dreieckstuch benutzen um Arm festzubinden
+- DMS
+
+Tip: Zweites Dreieckstuch benutzen um Arm Horrizontal auch zu fixiieren (einmal ums Oberkörper)
+
+Tip: Finger Freilassen fürs DMS
+
 ### Universalschiene
 
 - Metalplatte mit Schaumstoffummantelung
@@ -155,6 +180,8 @@ ggf offene Wunden steril abdecken
   - z.B. Fingerschiene
   - Klebt die geschnittene Seite ab ==> Verletzungsgefahr
 
+
+---
 
 ## Other Definitions
 
