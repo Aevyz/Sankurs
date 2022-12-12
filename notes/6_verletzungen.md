@@ -151,6 +151,9 @@ ggf offene Wunden steril abdecken
 - Angrezende Gelenke mitschienen
 - Schiene wird mit eine Mullbinde fixiert
 - DMS Kontrolle vorher UND nachher
+- Man kann SAM Splints auch schneiden
+  - z.B. Fingerschiene
+  - Klebt die geschnittene Seite ab ==> Verletzungsgefahr
 
 
 ## Other Definitions
